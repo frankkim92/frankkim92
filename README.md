@@ -7,7 +7,7 @@
     <h3>
     Content Creator at
       <a href="https://velog.io/@syncstar">
-       김도훈  <img src="https://images.velog.io/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" height="30px" />
+       FE Developer | 김도훈  <img src="https://images.velog.io/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" height="30px" />
       </a>
     </h3>
   </em>
@@ -32,6 +32,17 @@
 
 
 <br/>
+
+
+<h3>
+  개발자의 가치는 비즈니스 가치를 구현하는 데에 있다고 믿습니다.<br/>
+  주도적으로 업무를 할 수 있는 환경을 좋아합니다. <br/>
+</h3>
+
+<h4>
+  함께 일하는 동료들과 소통 및 협업을 통한 개발을 지향하고 있으며 몇 줄의 코드를 통해서 원하는 것을 만드는 것에 대단히 흥미가 있는 편입니다.<br/>
+  단순히 코드를 쓰는 것보다 꾸준히 학습하는 것을 좋아합니다. 그래서 블로그에 항상 TIl,WIL,에러노트 등을 200여개 이상의 게시글을 매일 꾸준하게 작성하면서 학습하고 있습니다.<br/>
+  </h4>
 
 
 
