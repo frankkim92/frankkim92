@@ -8,7 +8,7 @@
     Content Creator at
       <a href="https://velog.io/@syncstar">
         FE Developer | 김도훈  </br>
-      <img src="https://images.velog.io/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" height="40px" />
+      <img src="https://ifh.cc/g/ap6pqG.jpg" height="40px" />
       </a>
     </h3>
   </em>
