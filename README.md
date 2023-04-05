@@ -1,25 +1,16 @@
 <img align="right" src="https://ifh.cc/g/rB76Lp.jpg" width="300"/>
 
-<h1> Hi, I'm David Kim <img src="https://ifh.cc/g/rB76Lp.jpg" height="180"></h1>
+<h1> Hi, I'm David Kim</h1>
 
 <p>
   <em>
     <h3>
     Content Creator at
-      <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
-        드림코딩 by 엘리 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
+      <a href="https://velog.io/@syncstar">
+       김도훈  <img src="https://images.velog.io/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" height="30px" />
       </a>
     </h3>
   </em>
-  <em>
-  <h3>
-    Instructor at 
-    <a href="https://academy.dream-coding.com/">
-      Dream Coding Academy 
-      <img src="https://user-images.githubusercontent.com/1569988/159411473-79b779c5-b91f-4ded-9235-1f187e1ebec2.svg" height="30px"/>
-    </a>
-  </h3>
-    </em>
   </em>
 </p>
 
@@ -31,11 +22,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=for-the-badge&logo=reactNative)
+![Redux](https://img.shields.io/badge/-Redux-222222?style=for-the-badge&logo=Redux)
+![Recoil](https://img.shields.io/badge/-Recoil-222222?style=for-the-badge&logo=Recoil)
+![React-query](https://img.shields.io/badge/-React-query-222222?style=for-the-badge&logo=React-query)
+![Next](https://img.shields.io/badge/-Next-222222?style=for-the-badge&logo=Next)
+![Styled-components](https://img.shields.io/badge/-Styled-components-222222?style=for-the-badge&logo=Styled-components)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+
 
 <br/>
+
+
 
 <h2>My popular videos</h2>
 <table>
