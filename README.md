@@ -8,14 +8,14 @@
     Content Creator at
       <a href="https://velog.io/@syncstar">
         FE Developer | 김도훈  </br>
-      <img src="https://images.velog.io/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" height="40px" />
+      <img src="https://images.velog.io/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" height="35px" />
       </a>
     </h3>
   </em>
   </em>
 </p>
 
-<br />
+
 <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
