@@ -1,4 +1,4 @@
-<img align="right" src="https://ifh.cc/g/ap6pqG.jpg" width="300"/>
+
 
 <h1> Hi, I'm David Kim</h1>
 
